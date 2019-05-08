@@ -1,0 +1,28 @@
+div{
+  margin-bottom: 0px  !important;
+}
+.banner{
+  margin-top: 10px;
+}
+.banner img{
+  width: 100%;
+}
+footer{
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#logoLicorne{
+  width: 73%;
+  height: auto;
+}
+nav{
+  height: 50px !important;
+  margin-top: 5px !important;
+}
+nav i{
+  margin-top: -5px;
+}
+#kidding{
+  display: none;
+}
